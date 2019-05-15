@@ -1,0 +1,993 @@
+
+
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+		<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<meta name="format-detection" content="telephone=no">
+	<meta name="theme-color" content="#3498db">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://www.psrgroup.in/xmlrpc.php">
+		
+	<title>PSR GROUP</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="PSR GROUP &raquo; Feed" href="http://www.psrgroup.in/feed/" />
+<link rel="alternate" type="application/rss+xml" title="PSR GROUP &raquo; Comments Feed" href="http://www.psrgroup.in/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.psrgroup.in\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='ot-google-fonts-css'  href='//fonts.googleapis.com/css?family=Open+Sans:regular,italic%7COpen+Sans+Condensed:300,700&#038;subset=latin,cyrillic-ext,greek,latin-ext,vietnamese,greek-ext,cyrillic' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.psrgroup.in/wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='image-hover-effects-css-css'  href='http://www.psrgroup.in/wp-content/plugins/mega-addons-for-visual-composer/css/ihover.css' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css-css'  href='http://www.psrgroup.in/wp-content/plugins/mega-addons-for-visual-composer/css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-latest-css'  href='http://www.psrgroup.in/wp-content/plugins/mega-addons-for-visual-composer/css/font-awesome/css/font-awesome.css' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://www.psrgroup.in/wp-content/plugins/revslider/public/assets/css/settings.css' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='wpos-slick-style-css'  href='http://www.psrgroup.in/wp-content/plugins/wp-logo-showcase-responsive-slider-slider/assets/css/slick.css' type='text/css' media='all' />
+<link rel='stylesheet' id='logo_showcase_style-css'  href='http://www.psrgroup.in/wp-content/plugins/wp-logo-showcase-responsive-slider-slider/assets/css/logo-showcase.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-tas-font-awesome-css'  href='https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp_tsas_teamshowcase_css-css'  href='http://www.psrgroup.in/wp-content/plugins/wp-team-showcase-and-slider/assets/css/teamshowcase-style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp_tsas_teamshowcase_style-css'  href='http://www.psrgroup.in/wp-content/plugins/wp-team-showcase-and-slider/assets/css/slick.css' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://www.psrgroup.in/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='http://www.psrgroup.in/wp-content/plugins/js_composer/assets/css/js_composer.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='core-extend-css'  href='http://www.psrgroup.in/wp-content/plugins/core-extend/assets/css/core-extend.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mnky_main-css'  href='http://www.psrgroup.in/wp-content/themes/fintech-wp/style.css' type='text/css' media='all' />
+<style id='mnky_main-inline-css' type='text/css'>
+input[type='submit'], button, #wp-calendar #today, .pricing-box .plan-badge, .scrollToTop, .widget-area .widget .tagcloud a:hover, blockquote.box-left, blockquote.box-right, blockquote.callout, .article-labels span, .archive-style-2:nth-child(odd) .post-content-bg, .archive-style-2.layout-two-column:nth-child(4n) .post-content-bg, .archive-style-2.layout-two-column:nth-child(4n+1) .post-content-bg, .rating-bar-value, .mp-container .mp-comment, #mobile-site-navigation .mobile-menu-header, #site-navigation-side ul li.menu-button-theme a, #header-container .menu-toggle-wrapper:hover span {background-color:#3498db;}	input[type='submit'], button{border-bottom-color: #1175b8;}input[type=button]:hover, input[type='submit']:hover, button:hover{border-bottom-color: #1175b8; background-color: #1175b8;}.archive-layout.format-video .post-preview:before, .archive-layout.format-gallery .post-preview:before, .archive-layout.format-link .post-preview:before{background-color:rgba(52,152,219,0.70);}.archive-layout.format-video .post-preview:hover:before, .archive-layout.format-gallery .post-preview:hover:before, .archive-layout.format-link .post-preview:hover:before{background-color:rgba(52,152,219,0.80);}::selection{background-color:#f39c12;}::-moz-selection{background-color:#f39c12;}.archive-style-2:nth-child(even) .post-content-bg, .archive-style-2.layout-two-column .post-content-bg{background-color:#f39c12;}		.themecolor_txt, a, a:hover, blockquote.center p, #comments span.required, #comments .comment-reply-link:hover, #comments h3.comment-reply-title #cancel-comment-reply-link:hover, #comments .comment-meta a:hover, .vc_toggle_default .vc_toggle_title .vc_toggle_icon:after, .single-post .entry-header h5 a:hover, .entry-header .entry-meta a:hover, #comments p.comment-notes:before, p.logged-in-as:before, p.must-log-in:before, .sticky .post-preview:after, .pagination a:hover, .page-links a:hover, .format-chat p:nth-child(odd):before, #comments .comment-navigation a:hover, .separator_w_icon i, .mnky_testimonials-slider .flex-control-paging li a.flex-active:after, .mnky-content-slider .flex-control-paging li a.flex-active:after, #site-navigation ul li a:hover, #site-navigation ul li.current-menu-item > a, #site-navigation ul li.megamenu ul li ul li a:hover, #site-navigation ul li.megamenu ul li.current-menu-item > a, .mnky-posts .mp-title a:hover, .mp-author a:hover, .entry-meta-blog .meta-author:hover, .meta-comments a:hover, .archive-layout .entry-category a:hover, .mp-category a:hover, .rating_aspect_value .rating-value, .rating_summary_value, .rating-stars, #mobile-site-navigation ul > li > a:hover, .mnky_team_wrapper .team_member_position, .mnky_team_wrapper .team_content_container i, .mnky_breadcrumbs a:hover span, .site-links .search_button:hover, .site-links .header_cart_link i:hover, .menu-toggle-wrapper:hover, .footer-sidebar .widget a:hover, .site-info .widget a:hover {color:#3498db;}			.archive-layout .entry-category, .archive-layout .entry-category a, .single-post .entry-header h5, .single-post .entry-header h5 a, .mnky_team_wrapper:hover .team_content_container i, .mnky_breadcrumbs span {color:#f39c12;}		input:focus, textarea:focus, blockquote.border p, blockquote.bold:after, .rating-bar-value:after, #site-navigation-side ul li.menu-button-theme a, #site-navigation-side ul li.menu-button-outline-theme a, #sidebar .widget.widget_nav_menu ul li.current-menu-item a, #sidebar.float-right .widget.widget_nav_menu ul li.current-menu-item a {border-color:#3498db;}		.mp-container .mp-comment:after {border-left-color:#3498db; border-top-color:#3498db;}		#main, #site-header #header-container, #top-bar, #mobile-site-header, #container, .inner, .page-header, .header-search, .header-search .search-input {max-width:1170px; }#site-navigation ul li.megamenu > ul{max-width:1170px; left: calc(50% - 585px);}@media only screen and (max-width : 1170px){#site-navigation .menu-container ul li.megamenu > ul{left:0;}}@media only screen and (max-width : 1230px){.searchform-wrapper {padding:0 30px;} .header-search .toggle-header-search {right:30px;}}#mobile-site-header{width:100% !important;}#site-header, #site-header #header-wrapper {height:200px;}#site-header, #site-header #header-wrapper, #mobile-site-header {background-color:#ffffff;}#top-bar-wrapper, #top-bar .widget_nav_menu ul li ul{background:#34495e}#top-bar-wrapper .widget, #top-bar-wrapper .widget a, #top-bar .widget-title, #top-bar .search-input {color:#ffffff}#top-bar-wrapper .widget a:hover{color:#ffffff}#site-navigation ul > li > a, .site-links .menu-toggle-wrapper, .site-links .header_cart_wrapper, .site-links .search_button, #site-logo .site-title, #site-navigation #menu-sidebar {line-height:200px}.header-search .search-input {height:200px}#site-navigation ul > li > a, .site-links .menu-toggle-wrapper, .site-links .header_cart_wrapper, .site-links .search_button {line-height:60px;}#site-navigation ul li a, .site-links .menu-toggle-wrapper {font-size:18px}#site-navigation ul li a, .site-links .search_button, .site-links .header_cart_link i, .toggle-mobile-menu i, #mobile-site-header #mobile-site-logo h1.site-title a, #mobile-site-header .toggle-mobile-menu i, .header-search .search-input, .menu-toggle-wrapper {color:#ffffff}.header-search .toggle-header-search span, #header-container .menu-toggle-wrapper span {background-color:#ffffff}#site-navigation ul li a:hover, .site-links .search_button:hover, .site-links .header_cart_link i:hover, #site-navigation ul li.current-menu-item > a, .menu-toggle-wrapper:hover {color:#f7941d}#header-container .menu-toggle-wrapper:hover span {background-color:#f7941d}#site-navigation ul li ul li a {font-size:14px}#mobile-site-header{background:#ffffff}#mobile-site-header .toggle-mobile-menu i, #mobile-site-header #mobile-site-logo h1.site-title a {color:#ffffff}#site-logo {margin-top:10px}.page-sidebar .widget{color:#666677}body, select, textarea, input, button{font-family: "Open Sans",Arial,Helvetica,sans-serif;font-weight:normal;text-transform:capitalize;}body{color:#a7a7a7; font-size:18px}#content h4.wpb_toggle, .mp-author a, .entry-meta-blog .meta-author, .meta-comments a, .entry-header .entry-meta, .entry-header .entry-meta a, .pagination a, .page-links a, #comments .comment-meta a, #comments .comment-reply-link, #comments h3.comment-reply-title #cancel-comment-reply-link, #comments .comment-navigation a, .mnky_breadcrumbs a span, .mnky-content-box, .mnky-accordion.vc_tta-style-classic.vc_tta.vc_general .vc_tta-panel-title > a {color:#a7a7a7;}#site-navigation, #site-navigation ul li a, .site-links .menu-toggle-wrapper{font-family: "Open Sans",Arial,Helvetica,sans-serif;;font-weight:normal;text-transform:uppercase;}#site-navigation-side ul li a, #site-navigation-overlay ul li a{font-family: "Open Sans",Arial,Helvetica,sans-serif;;font-weight:normal;text-transform:uppercase;}.single-post .entry-content{font-family: "Open Sans",Arial,Helvetica,sans-serif;;font-weight:normal;text-transform:uppercase;}.single-post .entry-content, .single-post .post_lead_content {font-size:18px}h1{font-size:36px}h2{font-size:30px}h3{font-size:26px}h4{font-size:14px}h5{font-size:16px}h6{font-size:14px}h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {color:#a7a7a7}#site-logo .site-title a:hover, #comments .comment-author .fn, .mnky_counter_wrapper .count_data, .mnky-accordion.vc_tta-style-classic.vc_tta.vc_general .vc_tta-panel.vc_active .vc_tta-panel-title > a {color:#a7a7a7}.footer-sidebar{background-image: url(http://www.psrgroup.in/wp-content/uploads/2017/09/footer-bg.jpg); background-repeat:no-repeat; background-position:center top; background-size:cover}.footer-sidebar .vc_col-sm-4:nth-child(1) {width:33.3333%}.footer-sidebar .vc_col-sm-4:nth-child(2) {width:33.3333%}.footer-sidebar .vc_col-sm-4:nth-child(3) {width:33.3333%}.footer-sidebar .widget, .footer-sidebar .widget input{color:#ffffff}.site-info{background-position:center bottom}.site-info {text-align:left}#post-401 .vc_row .vc_col-sm-4{margin:0px;}#site-header.header-overlay #header-wrapper.header-sticky {    background-color: white !important;}.mnky_service-box .service-content{	line-height:20px;}.mnky_service-box{	margin-top:-5px;}.vc_row-fluid.title-separator{ display:none !important;}.partner-logos .mnky_client_logo_wrapper{  margin-bottom:10px !important;}.right-logo ul{  list-style:none;  margin:0px;}#mobile-site-header .toggle-mobile-menu i{	color:black !important;}#wrapper .mobile-header{ 	color: white !important;}h3.vc_custom_heading {	font-family: 'open_sanssemibold',Arial,Helvetica,sans-serif !important;}td{  text-align:center;}.header-content{    padding-top: 50px;    padding-bottom: 100px;    color: #ffffff;}.header-content h2,.header-content p{    color: #ffffff;    text-transform: initial;}.client-page-content,.client-page-content h2{    color: #58585a;}.client-page-content{    padding: 20px 0px;}.client-page-content h2{    font-family: 'open_sansextrabold',Arial,Helvetica,sans-serif;}.client-page-content h3{    color: #58585a;    font-size: 20px;}.client-page-content .vc_col-has-fill{    margin: 0px;}.client-page-content .vc_col-has-fill .vc_column-inner{    padding: 50px 30px;}.client-page-content .orange-block h2,.client-page-content .orange-block p,.client-page-content .green-block h2,.client-page-content .green-block p{    color: #ffffff;}.client-page-content .green-block .vc_column-inner{	background-size: cover;	-webkit-background-size: cover;	-moz-background-size: cover;}.parallax-content{    border-left: 3px solid #ffffff;    padding-left: 25px;}
+</style>
+<link rel='stylesheet' id='fancybox-css'  href='http://www.psrgroup.in/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox-1.3.8.min.css' type='text/css' media='screen' />
+<link rel='stylesheet' id='dashicons-css'  href='http://www.psrgroup.in/wp-includes/css/dashicons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-bar-css'  href='http://www.psrgroup.in/wp-includes/css/admin-bar.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='flexslider-css'  href='http://www.psrgroup.in/wp-content/plugins/js_composer/assets/lib/bower/flexslider/flexslider.min.css' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.psrgroup.in/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='http://www.psrgroup.in/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='http://www.psrgroup.in/wp-includes/js/jquery/ui/core.min.js'></script>
+<link rel='https://api.w.org/' href='http://www.psrgroup.in/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.psrgroup.in/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.psrgroup.in/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.8" />
+<link rel="canonical" href="http://www.psrgroup.in/" />
+<link rel='shortlink' href='http://www.psrgroup.in/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.psrgroup.in/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.psrgroup.in%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.psrgroup.in/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.psrgroup.in%2F&#038;format=xml" />
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://www.psrgroup.in/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><meta name="generator" content="Powered by Slider Revolution 5.4.5.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="http://www.psrgroup.in/wp-content/uploads/2017/10/cropped-psr-favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://www.psrgroup.in/wp-content/uploads/2017/10/cropped-psr-favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://www.psrgroup.in/wp-content/uploads/2017/10/cropped-psr-favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="http://www.psrgroup.in/wp-content/uploads/2017/10/cropped-psr-favicon-270x270.png" />
+<script type="text/javascript">function setREVStartSize(e){
+				try{ var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;					
+					if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
+				}catch(d){console.log("Failure at Presize of Slider:"+d)}
+			};</script>
+<style type="text/css" data-type="vc_custom-css">@media (max-width: 1200px){
+.content-slider-custom-responsive{
+    width: 90%;
+    margin-left:5%;
+}
+}</style><style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1505763021143{background: #002238 url(http://mnkythemedemos.com/demo-content/fintechwp-davos/wp-content/uploads/sites/3/2016/09/transparent-map.png?id=1031);background-position:center;background-repeat: no-repeat !important;background-size: contain !important;}.vc_custom_1508909962643{background-color: #f78d1f !important;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-126384162-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-126384162-1');
+</script>
+
+</head>
+	
+<body class="home page-template page-template-page-no-paddings page-template-page-no-paddings-php page page-id-432 sticky-sidebar wpb-js-composer js-comp-ver-5.2.1 vc_responsive" id="site-body" itemscope itemtype="http://schema.org/WebPage">
+		
+	<div id="wrapper">
+		
+	
+		
+			
+
+
+	
+<header id="mobile-site-header" class="mobile-header">
+	<div id="mobile-site-logo">
+		<a href="http://www.psrgroup.in/"><img src="http://www.psrgroup.in/wp-content/uploads/2017/09/psrlogo.png" alt="PSR GROUP" /></a>	</div>	
+	
+	<div id="mobile-header-sidebar" class="clearfix">
+		<div id="text-13" class="widget widget_text">			<div class="textwidget"><i style="color:#eeee22; margin-right:5px; font-size:20px;" class="fa fa-phone" aria-hidden="true"></i> <span style="color:#fff; font-size:20px; ">800-888</span></div>
+		</div>	</div>
+	
+	
+	<a href="#mobile-site-navigation" class="toggle-mobile-menu"><i class="fa fa-bars"></i></a>	
+</header>	
+	
+	
+
+	<header id="site-header" class="header-style-centred" itemscope itemtype="http://schema.org/WPHeader">
+		<div id="header-wrapper">
+			<div id="header-container" class="clearfix">
+				<div id="site-logo">
+					<a href="http://www.psrgroup.in/"><img src="http://www.psrgroup.in/wp-content/uploads/2017/09/psrlogo.png" alt="PSR GROUP" /></a>					<!-- <img class="right-logo" src="http://psrgroup.uppercut.agency/wp-content/uploads/2017/09/header-top-logo.png" alt="PSR GROUP"> -->					<!-- custom code for social icon starts -->					<div id="text-10" class="right-logo">						<div class="textwidget">							<p>								<a href="https://www.facebook.com/psrgroupindia" target="_blank">								<span class="mnky-font-icon change-color" style="color:black;">								 	<i class="fa fa-facebook" style="font-size:19px; color:black; padding-left:0px; padding-right:25px;"></i>								</span>								</a>																							<a href="https://www.linkedin.com/company/psrgroupindia/" target="_blank">							  	 <span class="mnky-font-icon change-color" style="color:black;">							  	 	<i class="fa fa-linkedin" style="font-size:21px; color:black; padding-left:0px; padding-right:0px;"></i>						  	 	 </span>						  	 	 </a>							</p>						</div>					</div>									<!-- custom code for social icon ends  -->
+				</div>			
+				
+				<div id="site-navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+					<nav id="primary-navigation" class="menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-2193" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-432 current_page_item menu-item-2193"><a href="http://www.psrgroup.in/">Home</a></li>
+<li id="menu-item-2211" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2211"><a href="http://www.psrgroup.in/about-us/">About Us</a></li>
+<li id="menu-item-3354" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3354"><a>OUR COMPANIES</a>
+<ul class="sub-menu">
+	<li id="menu-item-3373" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3373"><a href="http://www.psrgroup.in/it-services/">PSR IT Services</a></li>
+	<li id="menu-item-3396" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3396"><a href="http://www.psrgroup.in/psr-consultancy/">PSR CONSULTANCY SERVICES</a></li>
+	<li id="menu-item-3355" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3355"><a target="_blank" href="http://molvenoconsulting.com/">MOLVENO</a></li>
+	<li id="menu-item-3357" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3357"><a target="_blank" href="https://www.digitalrupay.com/">DIGITAL RUPAY</a></li>
+</ul>
+</li>
+<li id="menu-item-2737" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2737"><a href="#">Services</a>
+<ul class="sub-menu">
+	<li id="menu-item-2776" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2776"><a href="#">IT SERVICES</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2325" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2325"><a href="http://www.psrgroup.in/messaging-collaboration/">Messaging &#038; Collaboration</a>
+		<ul class="sub-menu">
+			<li id="menu-item-3319" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3319"><a href="http://www.psrgroup.in/microsoft-office-365/">Microsoft Office 365</a></li>
+			<li id="menu-item-3318" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3318"><a href="http://www.psrgroup.in/microsoft-azure/">Microsoft Azure</a></li>
+			<li id="menu-item-3317" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3317"><a href="http://www.psrgroup.in/skype-for-business/">Skype For Business</a></li>
+			<li id="menu-item-3316" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3316"><a href="http://www.psrgroup.in/microsoft-sharepoint/">Microsoft Sharepoint</a></li>
+		</ul>
+</li>
+		<li id="menu-item-2331" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2331"><a href="http://www.psrgroup.in/security-solutions/">SECURITY SOLUTIONS</a></li>
+		<li id="menu-item-2329" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2329"><a href="http://www.psrgroup.in/cloud-virtualization-services/">CLOUD &#038; VIRTUALIZATION SERVICES</a></li>
+		<li id="menu-item-2330" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2330"><a href="http://www.psrgroup.in/infrastructure-management/">INFRASTRUCTURE MANAGEMENT</a></li>
+		<li id="menu-item-2328" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2328"><a href="http://www.psrgroup.in/system-integration/">SYSTEM INTEGRATION</a></li>
+		<li id="menu-item-2327" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2327"><a href="http://www.psrgroup.in/migration-and-consolidation/">MIGRATION &#038; CONSOLIDATION</a></li>
+	</ul>
+</li>
+	<li id="menu-item-2536" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2536"><a href="http://www.psrgroup.in/fm-services/">FM SERVICES</a></li>
+	<li id="menu-item-2335" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2335"><a href="#">TELECOM SERVICES</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2601" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2601"><a href="http://www.psrgroup.in/radio-network-services/">Radio Network services</a></li>
+		<li id="menu-item-2589" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2589"><a href="http://www.psrgroup.in/installation-services/">Installation Services</a></li>
+		<li id="menu-item-2597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2597"><a href="http://www.psrgroup.in/project-management/">Project Management</a></li>
+		<li id="menu-item-2544" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2544"><a href="http://www.psrgroup.in/projectdelivery-models/">Project Delivery Models</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-2777" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2777"><a href="#">OPERATIONS</a>
+<ul class="sub-menu">
+	<li id="menu-item-2646" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2646"><a href="http://www.psrgroup.in/infrastructure-operations/">Infrastructure Operations</a></li>
+	<li id="menu-item-2355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2355"><a href="http://www.psrgroup.in/network-operations/">Network Operations</a></li>
+	<li id="menu-item-2356" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2356"><a href="http://www.psrgroup.in/data-centre-operations/">Data Centre Operations</a></li>
+	<li id="menu-item-2354" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2354"><a href="http://www.psrgroup.in/application-management/">Application Management</a></li>
+</ul>
+</li>
+<li id="menu-item-2242" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2242"><a href="http://www.psrgroup.in/alliance-partners/">Alliance &#038; Partners</a></li>
+<li id="menu-item-2243" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2243"><a href="http://www.psrgroup.in/careers/">Careers</a></li>
+<li id="menu-item-2191" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2191"><a href="http://www.psrgroup.in/contact-us/">Contact Us</a></li>
+</ul></nav>				
+										
+					<div class="site-links">
+																					
+											</div>
+					
+						
+						
+				</div><!-- #site-navigation -->
+											
+													
+
+			</div><!-- #header-container -->
+		</div><!-- #header-wrapper -->	
+	</header><!-- #site-header -->
+	
+	
+		
+	
+		
+		
+		
+
+		
+		
+		<div id="main" class="clearfix">
+
+		<div id="container">
+				
+			<div id="content">
+						
+				
+				<article id="post-432" class="clearfix post-432 page type-page status-publish" >
+					<div class="entry-content clearfix">
+				<div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<link href="http://fonts.googleapis.com/css?family=Open+Sans:400" rel="stylesheet" property="stylesheet" type="text/css" media="all">
+<div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-source="gallery" style="margin:0px auto;background:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
+<!-- START REVOLUTION SLIDER 5.4.5.1 fullwidth mode -->
+	<div id="rev_slider_1_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.4.5.1">
+<ul>	<!-- SLIDE  -->
+	<li data-index="rs-1" data-transition="slidehorizontal" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-thumb="http://www.psrgroup.in/wp-content/uploads/2017/10/slider1-100x50.png"  data-rotate="0"  data-fstransition="notransition" data-fsmasterspeed="300" data-fsslotamount="7" data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://www.psrgroup.in/wp-content/plugins/revslider/admin/assets/images/dummy.png"  alt="" title="slider1"  width="1920" height="600" data-lazyload="http://www.psrgroup.in/wp-content/uploads/2017/10/slider1.png" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-1-layer-1" 
+			 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
+			 data-y="['bottom','bottom','bottom','bottom']" data-voffset="['0','0','0','0']" 
+						data-width="960"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":20,"speed":3000,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":3000,"frame":"999","to":"opacity:0;","ease":"Power2.easeIn"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 5; min-width: 960px; max-width: 960px; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Open Sans;"><div class="banner-info">
+<h1 class = 'text-center'>Let your business grow with us.</h1>
+</div> </div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-9" data-transition="slideleft,slidehorizontal" data-slotamount="default,default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default,default" data-easeout="default,default" data-masterspeed="default,default"  data-thumb="http://www.psrgroup.in/wp-content/uploads/2017/09/Service-TEL03-A-100x50.jpg"  data-rotate="0,0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://www.psrgroup.in/wp-content/plugins/revslider/admin/assets/images/dummy.png"  alt="" title="Service-TEL03-A"  width="1920" height="600" data-lazyload="http://www.psrgroup.in/wp-content/uploads/2017/09/Service-TEL03-A.jpg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 2 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-9-layer-1" 
+			 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
+			 data-y="['bottom','bottom','bottom','bottom']" data-voffset="['0','0','0','0']" 
+						data-width="960"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":20,"speed":3000,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":3000,"frame":"999","to":"opacity:0;","ease":"Power2.easeIn"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 5; min-width: 960px; max-width: 960px; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Open Sans;"><div class="banner-info">
+<h1 class = 'text-center'>WE ENGINEER MEANINGFUL SOLUTIONS.</h1>
+</div> </div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-8" data-transition="slideleft,slidehorizontal" data-slotamount="default,default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default,default" data-easeout="default,default" data-masterspeed="default,default"  data-thumb="http://www.psrgroup.in/wp-content/uploads/2017/09/PSR-Partners-header-100x50.png"  data-rotate="0,0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://www.psrgroup.in/wp-content/plugins/revslider/admin/assets/images/dummy.png"  alt="" title="PSR-Partners&#8211;header"  width="1920" height="600" data-lazyload="http://www.psrgroup.in/wp-content/uploads/2017/09/PSR-Partners-header.png" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 3 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-8-layer-1" 
+			 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
+			 data-y="['bottom','bottom','bottom','bottom']" data-voffset="['0','0','0','0']" 
+						data-width="960"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":20,"speed":3000,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":3000,"frame":"999","to":"opacity:0;","ease":"Power2.easeIn"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 5; min-width: 960px; max-width: 960px; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Open Sans;"><div class="banner-info">
+<h1 class = 'text-center'>NEW THINKING REVEALS NEW POSSIBILITIES.</h1>
+</div> </div>
+	</li>
+</ul>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+						if(htmlDiv) {
+							htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+						}else{
+							var htmlDiv = document.createElement("div");
+							htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+							document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+						}
+					</script>
+<div class="tp-bannertimer" style="height: 5px; background: rgba(0,0,0,0.15);"></div>	</div>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+				if(htmlDiv) {
+					htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+				}else{
+					var htmlDiv = document.createElement("div");
+					htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+					document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+				}
+			</script>
+		<script type="text/javascript">
+setREVStartSize({c: jQuery('#rev_slider_1_1'), responsiveLevels: [1240,1024,778,480], gridwidth: [1240,1024,778,480], gridheight: [600,600,500,400], sliderLayout: 'fullwidth'});
+			
+var revapi1,
+	tpj=jQuery;
+			
+tpj(document).ready(function() {
+	if(tpj("#rev_slider_1_1").revolution == undefined){
+		revslider_showDoubleJqueryError("#rev_slider_1_1");
+	}else{
+		revapi1 = tpj("#rev_slider_1_1").show().revolution({
+			sliderType:"standard",
+			jsFileLocation:"//www.psrgroup.in/wp-content/plugins/revslider/public/assets/js/",
+			sliderLayout:"fullwidth",
+			dottedOverlay:"none",
+			delay:9000,
+			navigation: {
+				keyboardNavigation:"off",
+				keyboard_direction: "horizontal",
+				mouseScrollNavigation:"off",
+ 							mouseScrollReverse:"default",
+				onHoverStop:"on",
+				touch:{
+					touchenabled:"on",
+					touchOnDesktop:"off",
+					swipe_threshold: 75,
+					swipe_min_touches: 50,
+					swipe_direction: "horizontal",
+					drag_block_vertical: false
+				}
+				,
+				arrows: {
+					style:"hesperiden",
+					enable:true,
+					hide_onmobile:true,
+					hide_under:600,
+					hide_onleave:true,
+					hide_delay:200,
+					hide_delay_mobile:1200,
+					tmp:'',
+					left: {
+						h_align:"left",
+						v_align:"center",
+						h_offset:30,
+						v_offset:0
+					},
+					right: {
+						h_align:"right",
+						v_align:"center",
+						h_offset:30,
+						v_offset:0
+					}
+				}
+				,
+				bullets: {
+					enable:true,
+					hide_onmobile:true,
+					hide_under:600,
+					style:"hephaistos",
+					hide_onleave:true,
+					hide_delay:200,
+					hide_delay_mobile:1200,
+					direction:"horizontal",
+					h_align:"center",
+					v_align:"bottom",
+					h_offset:0,
+					v_offset:30,
+					space:5,
+					tmp:''
+				}
+			},
+			responsiveLevels:[1240,1024,778,480],
+			visibilityLevels:[1240,1024,778,480],
+			gridwidth:[1240,1024,778,480],
+			gridheight:[600,600,500,400],
+			lazyType:"smart",
+			parallax: {
+				type:"mouse",
+				origo:"slidercenter",
+				speed:2000,
+				speedbg:0,
+				speedls:0,
+				levels:[2,3,4,5,6,7,12,16,10,50,47,48,49,50,51,55],
+			},
+			shadow:0,
+			spinner:"off",
+			stopLoop:"off",
+			stopAfterLoops:-1,
+			stopAtSlide:-1,
+			shuffle:"off",
+			autoHeight:"off",
+			hideThumbsOnMobile:"off",
+			hideSliderAtLimit:0,
+			hideCaptionAtLimit:0,
+			hideAllCaptionAtLilmit:0,
+			debugMode:false,
+			fallbacks: {
+				simplifyAll:"off",
+				nextSlideOnWindowFocus:"off",
+				disableFocusListener:false,
+			}
+		});
+	}
+	
+});	/*ready*/
+</script>
+		<script>
+					var htmlDivCss = unescape(".text-center%7B%0A%20%20text-align%3Acenter%20%21important%3B%0A%7D");
+					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+					if(htmlDiv) {
+						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+					}
+					else{
+						var htmlDiv = document.createElement('div');
+						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+					}
+				  </script><script>
+					var htmlDivCss = unescape(".hesperiden.tparrows%20%7B%0A%09cursor%3Apointer%3B%0A%09background%3Argba%280%2C0%2C0%2C0.5%29%3B%0A%09width%3A40px%3B%0A%09height%3A40px%3B%0A%09position%3Aabsolute%3B%0A%09display%3Ablock%3B%0A%09z-index%3A100%3B%0A%20%20%20%20border-radius%3A%2050%25%3B%0A%7D%0A.hesperiden.tparrows%3Ahover%20%7B%0A%09background%3Argba%280%2C%200%2C%200%2C%201%29%3B%0A%7D%0A.hesperiden.tparrows%3Abefore%20%7B%0A%09font-family%3A%20%22revicons%22%3B%0A%09font-size%3A20px%3B%0A%09color%3Argb%28255%2C%20255%2C%20255%29%3B%0A%09display%3Ablock%3B%0A%09line-height%3A%2040px%3B%0A%09text-align%3A%20center%3B%0A%7D%0A.hesperiden.tparrows.tp-leftarrow%3Abefore%20%7B%0A%09content%3A%20%22%5Ce82c%22%3B%0A%20%20%20%20margin-left%3A-3px%3B%0A%7D%0A.hesperiden.tparrows.tp-rightarrow%3Abefore%20%7B%0A%09content%3A%20%22%5Ce82d%22%3B%0A%20%20%20%20margin-right%3A-3px%3B%0A%7D%0A.hephaistos%20.tp-bullet%20%7B%0A%09width%3A12px%3B%0A%09height%3A12px%3B%0A%09position%3Aabsolute%3B%0A%09background%3Argba%28153%2C%20153%2C%20153%2C%201%29%3B%0A%09border%3A3px%20solid%20rgba%28255%2C255%2C255%2C0.9%29%3B%0A%09border-radius%3A50%25%3B%0A%09cursor%3A%20pointer%3B%0A%09box-sizing%3Acontent-box%3B%0A%20%20%20%20box-shadow%3A%200px%200px%202px%201px%20rgba%28130%2C130%2C130%2C%200.3%29%3B%0A%7D%0A.hephaistos%20.tp-bullet%3Ahover%2C%0A.hephaistos%20.tp-bullet.selected%20%7B%0A%09background%3Argba%28255%2C%20255%2C%20255%2C%201%29%3B%0A%20%20%20%20border-color%3Argba%280%2C%200%2C%200%2C%201%29%3B%0A%7D%0A");
+					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+					if(htmlDiv) {
+						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+					}
+					else{
+						var htmlDiv = document.createElement('div');
+						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+					}
+				  </script>
+				</div><!-- END REVOLUTION SLIDER -->
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div class="vc_row wpb_row vc_row-fluid home-welcome"><div class="wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeIn fadeIn" >
+		<div class="wpb_wrapper">
+			<h1 style="text-align: center;">WELCOME</h1>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeIn fadeIn" >
+		<div class="wpb_wrapper">
+			<p>PSR Group is a pioneer in offering dedicated solutions designed to support your business and help it grow beyond borders. For PSR GROUP, “Your Satisfaction is our Destination” is more than a slogan &#8211; it reflects our approach to every engagement.</p>
+
+		</div>
+	</div>
+</div></div></div></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid home-welcome-blocks"><div data-vc-parallax="1.5" data-vc-parallax-image="http://www.psrgroup.in/wp-content/uploads/2016/09/block-bg3.png" class="wpb_animate_when_almost_visible wpb_left-to-right left-to-right wpb_column vc_column_container vc_col-sm-6 vc_col-has-fill vc_general vc_parallax vc_parallax-content-moving"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 30px" ><span class="vc_empty_space_inner"></span></div>
+
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="120" height="120" src="http://www.psrgroup.in/wp-content/uploads/2016/09/top-icon1.png" class="vc_single_image-img attachment-full" alt="" /></div>
+		</figure>
+	</div>
+<div class="vc_empty_space"   style="height: 20px" ><span class="vc_empty_space_inner"></span></div>
+<div class="mnky_heading_wrapper"><h1 style="font-size: 30px;">SYSTEM INTEGRATION</h1><div class="heading-line"><span style="background-color:"></span></div></div>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p style="text-align: center;">Our expertise in system integration process will enhance the client’s competencies and capabilities across the following disciplines</p>
+
+		</div>
+	</div>
+</div></div></div><div data-vc-parallax="1.5" data-vc-parallax-image="http://www.psrgroup.in/wp-content/uploads/2016/09/block-bg4.png" class="wpb_animate_when_almost_visible wpb_appear appear wpb_column vc_column_container vc_col-sm-6 vc_col-has-fill vc_general vc_parallax vc_parallax-content-moving"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 30px" ><span class="vc_empty_space_inner"></span></div>
+
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="120" height="120" src="http://www.psrgroup.in/wp-content/uploads/2016/09/block-icon1.png" class="vc_single_image-img attachment-full" alt="" /></div>
+		</figure>
+	</div>
+<div class="vc_empty_space"   style="height: 20px" ><span class="vc_empty_space_inner"></span></div>
+<div class="mnky_heading_wrapper"><h1 style="font-size: 30px;">IT SERVICES</h1><div class="heading-line"><span style="background-color:"></span></div></div>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p style="text-align: center;">We Ensure That Our Dedicated Pool Of Resources Provide Outstanding Support To Your IT Environments And Helps You To Maximize The Output From Your Businesses.</p>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid home-welcome-blocks"><div data-vc-parallax="1.5" data-vc-parallax-image="http://www.psrgroup.in/wp-content/uploads/2016/09/block-bg4.png" class="wpb_animate_when_almost_visible wpb_left-to-right left-to-right wpb_column vc_column_container vc_col-sm-6 vc_col-has-fill vc_general vc_parallax vc_parallax-content-moving"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 30px" ><span class="vc_empty_space_inner"></span></div>
+
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="120" height="120" src="http://www.psrgroup.in/wp-content/uploads/2016/09/top-icon3.png" class="vc_single_image-img attachment-full" alt="" /></div>
+		</figure>
+	</div>
+<div class="vc_empty_space"   style="height: 20px" ><span class="vc_empty_space_inner"></span></div>
+<div class="mnky_heading_wrapper"><h1 style="font-size: 30px;">BIG DATA ANALYTICS</h1><div class="heading-line"><span style="background-color:"></span></div></div>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p style="text-align: center;">Our expertise in big data helps to shape your big technology decisions and build salable and fault-tolerant big data solutions which ultimately drive increased performance.</p>
+
+		</div>
+	</div>
+</div></div></div><div data-vc-parallax="1.5" data-vc-parallax-image="http://www.psrgroup.in/wp-content/uploads/2016/09/block-bg3.png" class="wpb_animate_when_almost_visible wpb_appear appear wpb_column vc_column_container vc_col-sm-6 vc_col-has-fill vc_general vc_parallax vc_parallax-content-moving"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 30px" ><span class="vc_empty_space_inner"></span></div>
+
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="120" height="120" src="http://www.psrgroup.in/wp-content/uploads/2016/09/top-icon4.png" class="vc_single_image-img attachment-full" alt="" /></div>
+		</figure>
+	</div>
+<div class="vc_empty_space"   style="height: 20px" ><span class="vc_empty_space_inner"></span></div>
+<div class="mnky_heading_wrapper"><h1 style="font-size: 30px;">TELECOM</h1><div class="heading-line"><span style="background-color:"></span></div></div>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p style="text-align: center;">Specialized in Telecom Services providing a first class solutions, increasing service agility and efficiencies and the end result serves the client needs perfectly.</p>
+
+		</div>
+	</div>
+</div></div></div><div data-vc-parallax="1.5" data-vc-parallax-image="http://www.psrgroup.in/wp-content/uploads/2017/09/PSR-Serv-Bg.png" class="wpb_column vc_column_container vc_col-sm-12 vc_col-has-fill vc_general vc_parallax vc_parallax-content-moving"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid welcome-big-block"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="120" height="120" src="http://www.psrgroup.in/wp-content/uploads/2016/09/top-icon5.png" class="vc_single_image-img attachment-full" alt="" /></div>
+		</figure>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="mnky_heading_wrapper"><h1 style="font-size: 30px;">PAYMENT GATEWAY SOLUTIONS</h1><div class="heading-line"><span style="background-color:"></span></div></div>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Our online payment gateway solution is incredibly simple, speed and secure, these key features made it one of the top payment solution.</p>
+
+		</div>
+	</div>
+</div></div></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_row-no-padding"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 30px" ><span class="vc_empty_space_inner"></span></div>
+</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_row-no-padding"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_left   home-top-seperator">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1919" height="19" src="http://www.psrgroup.in/wp-content/uploads/2017/09/seperator-bg.png" class="vc_single_image-img attachment-full" alt="" srcset="http://www.psrgroup.in/wp-content/uploads/2017/09/seperator-bg.png 1919w, http://www.psrgroup.in/wp-content/uploads/2017/09/seperator-bg-300x3.png 300w, http://www.psrgroup.in/wp-content/uploads/2017/09/seperator-bg-768x8.png 768w, http://www.psrgroup.in/wp-content/uploads/2017/09/seperator-bg-1024x10.png 1024w" sizes="(max-width: 1919px) 100vw, 1919px" /></div>
+		</figure>
+	</div>
+</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-parallax="1.5" data-vc-parallax-image="http://www.psrgroup.in/wp-content/uploads/2016/09/parallax-bg.jpg" class="vc_row wpb_row vc_row-fluid home-parallax vc_custom_1505763021143 vc_row-has-fill vc_general vc_parallax vc_parallax-content-moving"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 150px" ><span class="vc_empty_space_inner"></span></div>
+<div class="mnky-content-slider client-carousel"><div class="wpb_flexslider" data-interval="6" data-flex_fx="slide"><ul class="slides">
+			<li class="section-wrapper client carousel" style="display:none;"><div class="section-inner">
+			<div class="vc_row wpb_row vc_inner vc_row-fluid vc_row-o-equal-height vc_row-o-content-middle vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="418" height="149" src="http://www.psrgroup.in/wp-content/uploads/2018/10/PSR-Logo1.png" class="vc_single_image-img attachment-full" alt="PSR-Logo1" srcset="http://www.psrgroup.in/wp-content/uploads/2018/10/PSR-Logo1.png 418w, http://www.psrgroup.in/wp-content/uploads/2018/10/PSR-Logo1-300x107.png 300w" sizes="(max-width: 418px) 100vw, 418px" /></div>
+		</figure>
+	</div>
+</div></div></div><div class="parallax-content wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>We have extensive Domain knowledge, proven track record in executing large and complex network Engineering Services projects, on time delivery and focus on customer satisfaction. We serve our customer’s Access, Backhaul and Core Network needs with the highest level of confidence.</p>
+<p>With Subject Matter Expertise (SME), Domain Specialization and Technology Advocacy, ensuring highly productive, efficient and competitively priced Service Delivery.</p>
+
+		</div>
+	</div>
+<div class="vc_empty_space"   style="height: 32px" ><span class="vc_empty_space_inner"></span></div>
+<div class="vc_btn3-container vc_btn3-left" >
+	<a style="background-color:#ededed; color:#666666;" class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-square vc_btn3-style-custom" href="http://www.psrgroup.in/" title="" target="_blank">VIEW MORE</a></div>
+</div></div></div></div></div></li><li class="section-wrapper" style="display:none;"><div class="section-inner">
+			<div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="418" height="149" src="http://www.psrgroup.in/wp-content/uploads/2018/10/PSR-Logo2.png" class="vc_single_image-img attachment-full" alt="PSR-Logo2" srcset="http://www.psrgroup.in/wp-content/uploads/2018/10/PSR-Logo2.png 418w, http://www.psrgroup.in/wp-content/uploads/2018/10/PSR-Logo2-300x107.png 300w" sizes="(max-width: 418px) 100vw, 418px" /></div>
+		</figure>
+	</div>
+</div></div></div><div class="parallax-content wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>We have extensive Domain knowledge, proven track record in executing large and complex network Engineering Services projects, on time delivery and focus on customer satisfaction. We serve our customer’s Access, Backhaul and Core Network needs with the highest level of confidence.</p>
+<p>With Subject Matter Expertise (SME), Domain Specialization and Technology Advocacy, ensuring highly productive, efficient and competitively priced Service Delivery.</p>
+
+		</div>
+	</div>
+<div class="vc_empty_space"   style="height: 32px" ><span class="vc_empty_space_inner"></span></div>
+<div class="vc_btn3-container vc_btn3-left" >
+	<a style="background-color:#ededed; color:#666666;" class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-square vc_btn3-style-custom" href="http://www.psrgroup.in/" title="" target="_blank">VIEW MORE</a></div>
+</div></div></div></div></div></li><li class="section-wrapper" style="display:none;"><div class="section-inner">
+			<div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="298" height="146" src="http://www.psrgroup.in/wp-content/uploads/2018/10/Molveno.png" class="vc_single_image-img attachment-full" alt="Molveno" /></div>
+		</figure>
+	</div>
+</div></div></div><div class="parallax-content wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Molveno offers an array of world-class Consulting Services &amp; Project Outsourcing services in the field of Information Technology to clients across the World.</p>
+<p>By leveraging on extensive Industry experience, domain knowledge, cutting edge technology, and a robust work-planning methodology we maintain an effective and efficient global delivery model to deliver high quality &amp; reliable services. We ensure that our value-based solutions enable our clients to improve their business efficiency &amp; competitiveness while ensuring that they deliver outcomes that add value to the business of their clients.</p>
+
+		</div>
+	</div>
+<div class="vc_empty_space"   style="height: 32px" ><span class="vc_empty_space_inner"></span></div>
+<div class="vc_btn3-container vc_btn3-left" >
+	<a style="background-color:#ededed; color:#666666;" class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-square vc_btn3-style-custom" href="http://www.molvenoconsulting.com/" title="" target="_blank">VIEW MORE</a></div>
+</div></div></div></div></div></li><li class="section-wrapper" style="display:none;"><div class="section-inner">
+			<div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="298" height="146" src="http://www.psrgroup.in/wp-content/uploads/2018/10/DigitalRupay-Logo.png" class="vc_single_image-img attachment-full" alt="DigitalRupay-Logo" /></div>
+		</figure>
+	</div>
+</div></div></div><div class="parallax-content wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>We Look at Problems or Situations or Requirements from a fresh perspective that suggests unorthodox solutions (which may look unsettling at first). We do creative designs by stimulating both by an unstructured process such as brainstorming, and by a structured process such as lateral thinking.</p>
+
+		</div>
+	</div>
+<div class="vc_empty_space"   style="height: 32px" ><span class="vc_empty_space_inner"></span></div>
+<div class="vc_btn3-container vc_btn3-left" >
+	<a style="background-color:#ededed; color:#666666;" class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-square vc_btn3-style-custom" href="https://digitalrupay.com/" title="" target="_blank">VIEW MORE</a></div>
+</div></div></div></div></div></li></ul></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 150px" ><span class="vc_empty_space_inner"></span></div>
+</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_row-no-padding"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_left   home-bottom-seperator">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1919" height="19" src="http://www.psrgroup.in/wp-content/uploads/2017/09/seperator-bg.png" class="vc_single_image-img attachment-full" alt="" srcset="http://www.psrgroup.in/wp-content/uploads/2017/09/seperator-bg.png 1919w, http://www.psrgroup.in/wp-content/uploads/2017/09/seperator-bg-300x3.png 300w, http://www.psrgroup.in/wp-content/uploads/2017/09/seperator-bg-768x8.png 768w, http://www.psrgroup.in/wp-content/uploads/2017/09/seperator-bg-1024x10.png 1024w" sizes="(max-width: 1919px) 100vw, 1919px" /></div>
+		</figure>
+	</div>
+</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 30px" ><span class="vc_empty_space_inner"></span></div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid counter-wrapper vc_custom_1508909962643 vc_row-has-fill vc_row-o-equal-height vc_row-o-content-middle vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid first-counter-block"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="100" height="100" src="http://www.psrgroup.in/wp-content/uploads/2016/09/icon1.png" class="vc_single_image-img attachment-full" alt="" /></div>
+		</figure>
+	</div>
+<div class="mnky_counter_wrapper "><span class="count_data" data-count-from="0" data-count-to="10" data-count-speed="1000" data-count-interval="10" data-count-decimals="0">0</span></div><div class="clearfix mnky_service-box"><div class="service_icon"><i style="color:#3498db;" class="fa fa-info-circle"></i></div><div class="service-content" style="color:#ffffff;"><h5 style="color:#ffffff;"></h5>YEARS OF<br />
+SERVICE</div></a></div><div class="vc_empty_space"   style="height: 32px" ><span class="vc_empty_space_inner"></span></div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="100" height="100" src="http://www.psrgroup.in/wp-content/uploads/2016/09/icon2.png" class="vc_single_image-img attachment-full" alt="" /></div>
+		</figure>
+	</div>
+<div class="mnky_counter_wrapper "><span class="count_data" data-count-from="0" data-count-to="120" data-count-speed="1000" data-count-interval="10" data-count-decimals="0">0</span></div><div class="clearfix mnky_service-box"><div class="service_icon"><i style="color:#ffffff;" class="fa fa-info-circle"></i></div><div class="service-content" style="color:#ffffff;"><h5 ></h5>PROFESSIONALS<br />
+INVOLVED</div></a></div><div class="vc_empty_space"   style="height: 32px" ><span class="vc_empty_space_inner"></span></div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="100" height="100" src="http://www.psrgroup.in/wp-content/uploads/2016/09/icon3.png" class="vc_single_image-img attachment-full" alt="" /></div>
+		</figure>
+	</div>
+<div class="mnky_counter_wrapper "><span class="count_data" data-count-from="0" data-count-to="520" data-count-speed="1000" data-count-interval="10" data-count-decimals="0">0</span></div><div class="clearfix mnky_service-box"><div class="service_icon"><i style="color:#3498db;" class="fa fa-info-circle"></i></div><div class="service-content" style="color:#ffffff;"><h5 style="color:#ffffff;"></h5>HAPPY<br />
+CLIENT</div></a></div><div class="vc_empty_space"   style="height: 32px" ><span class="vc_empty_space_inner"></span></div>
+</div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="100" height="100" src="http://www.psrgroup.in/wp-content/uploads/2016/09/icon4.png" class="vc_single_image-img attachment-full" alt="" /></div>
+		</figure>
+	</div>
+<div class="mnky_counter_wrapper "><span class="count_data" data-count-from="0" data-count-to="5000" data-count-speed="1000" data-count-interval="10" data-count-decimals="0">0</span></div><div class="clearfix mnky_service-box"><div class="service_icon"><i style="color:#3498db;" class="fa fa-qrcode"></i></div><div class="service-content" style="color:#ffffff;"><h5 ></h5>COFFEE<br />
+CONSUMED</div></a></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="100" height="100" src="http://www.psrgroup.in/wp-content/uploads/2016/09/icon5.png" class="vc_single_image-img attachment-full" alt="" /></div>
+		</figure>
+	</div>
+<div class="mnky_counter_wrapper "><span class="count_data" data-count-from="0" data-count-to="36" data-count-speed="1000" data-count-interval="10" data-count-decimals="0">0</span></div><div class="clearfix mnky_service-box"><div class="service_icon"><i style="color:#3498db;" class="fa fa-info-circle"></i></div><div class="service-content" style="color:#ffffff;"><h5 ></h5>ALLIANCES &amp;<br />
+PARTNERS</div></a></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="100" height="100" src="http://www.psrgroup.in/wp-content/uploads/2016/09/icon6.png" class="vc_single_image-img attachment-full" alt="" /></div>
+		</figure>
+	</div>
+<div class="mnky_counter_wrapper "><span class="count_data" data-count-from="0" data-count-to="860" data-count-speed="1000" data-count-interval="10" data-count-decimals="0">0</span></div><div class="clearfix mnky_service-box"><div class="service_icon"><i style="color:#3498db;" class="fa fa-product-hunt"></i></div><div class="service-content" style="color:#ffffff;"><h5 ></h5>PROJECTS<br />
+HANDLED</div></a></div></div></div></div></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid home-clients"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 30px" ><span class="vc_empty_space_inner"></span></div>
+
+	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeIn fadeIn" >
+		<div class="wpb_wrapper">
+			<h1 style="text-align: center;">our clients</h1>
+<p style="text-align: center;">We’ve established a range of alliances to meet the needs of our diverse customer base.</p>
+		
+		<div class="wpls-logo-showcase-slider-wrp wpls-logo-clearfix">
+			<div class="wpls-logo-showcase logo_showcase wpls-logo-slider  wpls-design-1  sliderimage_hide_border" id="wpls-logo-showcase-slider-2" >
+				
+<div class="wpls-logo-cnt" title="yupptv">	
+	<div class="wpls-fix-box">		
+					
+			<img class="wp-post-image" src="http://www.psrgroup.in/wp-content/uploads/2017/09/psr-yupptv.png" alt="Logo Image" />		
+			
+	</div>
+	</div>
+<div class="wpls-logo-cnt" title="Biological E. limited">	
+	<div class="wpls-fix-box">		
+					
+			<img class="wp-post-image" src="http://www.psrgroup.in/wp-content/uploads/2017/09/psr-Be.png" alt="Logo Image" />		
+			
+	</div>
+	</div>
+<div class="wpls-logo-cnt" title="Maxvision Superspeciality EYE Hospital">	
+	<div class="wpls-fix-box">		
+					
+			<img class="wp-post-image" src="http://www.psrgroup.in/wp-content/uploads/2017/09/psr-maxivision.png" alt="Logo Image" />		
+			
+	</div>
+	</div>
+<div class="wpls-logo-cnt" title="Yashodha Hospital">	
+	<div class="wpls-fix-box">		
+					
+			<img class="wp-post-image" src="http://www.psrgroup.in/wp-content/uploads/2017/09/psr-yashodha.png" alt="Logo Image" />		
+			
+	</div>
+	</div>
+<div class="wpls-logo-cnt" title="Anoos">	
+	<div class="wpls-fix-box">		
+					
+			<img class="wp-post-image" src="http://www.psrgroup.in/wp-content/uploads/2017/10/psr-anoos.png" alt="Logo Image" />		
+			
+	</div>
+	</div>
+<div class="wpls-logo-cnt" title="APGenco">	
+	<div class="wpls-fix-box">		
+					
+			<img class="wp-post-image" src="http://www.psrgroup.in/wp-content/uploads/2017/10/psr-apgenco.png" alt="Logo Image" />		
+			
+	</div>
+	</div>
+<div class="wpls-logo-cnt" title="APTransco">	
+	<div class="wpls-fix-box">		
+					
+			<img class="wp-post-image" src="http://www.psrgroup.in/wp-content/uploads/2017/10/Psr-Aptranco.png" alt="Logo Image" />		
+			
+	</div>
+	</div>
+<div class="wpls-logo-cnt" title="MyHomeGroup">	
+	<div class="wpls-fix-box">		
+					
+			<img class="wp-post-image" src="http://www.psrgroup.in/wp-content/uploads/2017/10/psr-myhome-1.png" alt="Logo Image" />		
+			
+	</div>
+	</div>
+<div class="wpls-logo-cnt" title="Bambino">	
+	<div class="wpls-fix-box">		
+					
+			<img class="wp-post-image" src="http://www.psrgroup.in/wp-content/uploads/2017/10/psr-bambind.png" alt="Logo Image" />		
+			
+	</div>
+	</div>
+<div class="wpls-logo-cnt" title="E-TV">	
+	<div class="wpls-fix-box">		
+					
+			<img class="wp-post-image" src="http://www.psrgroup.in/wp-content/uploads/2017/10/psr-etv.png" alt="Logo Image" />		
+			
+	</div>
+	</div>
+<div class="wpls-logo-cnt" title="MSN Laboratories ltd">	
+	<div class="wpls-fix-box">		
+					
+			<img class="wp-post-image" src="http://www.psrgroup.in/wp-content/uploads/2017/10/psr-msn.png" alt="Logo Image" />		
+			
+	</div>
+	</div>
+<div class="wpls-logo-cnt" title="Nava Bharat Ventures Ltd.">	
+	<div class="wpls-fix-box">		
+					
+			<img class="wp-post-image" src="http://www.psrgroup.in/wp-content/uploads/2017/10/psr-nava-bharat-1.png" alt="Logo Image" />		
+			
+	</div>
+	</div>
+<div class="wpls-logo-cnt" title="Nuziveedu Seeds">	
+	<div class="wpls-fix-box">		
+					
+			<img class="wp-post-image" src="http://www.psrgroup.in/wp-content/uploads/2017/10/psr-nuziveedu.png" alt="Logo Image" />		
+			
+	</div>
+	</div>
+<div class="wpls-logo-cnt" title="Pennar Industries Limited">	
+	<div class="wpls-fix-box">		
+					
+			<img class="wp-post-image" src="http://www.psrgroup.in/wp-content/uploads/2017/10/psr-pennar.png" alt="Logo Image" />		
+			
+	</div>
+	</div>
+<div class="wpls-logo-cnt" title="Priya Cement">	
+	<div class="wpls-fix-box">		
+					
+			<img class="wp-post-image" src="http://www.psrgroup.in/wp-content/uploads/2017/10/psr-priyacement.png" alt="Logo Image" />		
+			
+	</div>
+	</div>			</div><!-- end .wpls-logo-slider -->
+			<div class="wpls-logo-showacse-slider-conf">{&quot;slides_column&quot;:&quot;4&quot;,&quot;slides_scroll&quot;:&quot;1&quot;,&quot;dots&quot;:&quot;true&quot;,&quot;arrows&quot;:&quot;true&quot;,&quot;autoplay&quot;:&quot;false&quot;,&quot;autoplay_interval&quot;:&quot;2000&quot;,&quot;loop&quot;:&quot;true&quot;,&quot;rtl&quot;:&quot;false&quot;,&quot;speed&quot;:&quot;1000&quot;,&quot;center_mode&quot;:&quot;false&quot;}</div>
+		</div><!-- end .wpls-logo-showcase-slider-wrp -->
+			
+		
+
+		</div>
+	</div>
+<div class="vc_empty_space"   style="height: 30px" ><span class="vc_empty_space_inner"></span></div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 50px" ><span class="vc_empty_space_inner"></span></div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"></div></div></div></div>
+					</div><!-- .entry-content -->
+				</article>
+
+												
+						</div><!-- #content -->
+					
+		</div><!-- #container -->
+		
+	</div><!-- #main  -->
+
+	
+<footer class="site-footer" id="site-footer" itemscope itemtype="http://schema.org/WPFooter">
+
+					<div class="footer-sidebar clearfix" itemscope itemtype="http://schema.org/WPSideBar">
+							<div class="inner">
+				<div class="vc_row">
+											<div class="vc_col-sm-4">
+							<div class="widget-area">
+								<div id="media_image-2" class="widget widget_media_image"><img width="66" height="68" src="http://www.psrgroup.in/wp-content/uploads/2017/09/footer-about-icon.png" class="image wp-image-2232  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" /></div><div id="text-17" class="widget widget_text">			<div class="textwidget"><p>#1-10-198, 3RD FLOOR, ITPI BUILDING,<br />
+BESIDE POST OFFICE, BEGUMPET,<br />
+HYDERABAD, TELANGANA &#8211; 500016<br />
+Phone: <a href="tel:040- 67 88 99 99">040- 67 88 99 99</a><br />
+email: <a href="mailto:info@psrgroup.in">info@psrgroup.in</a></p>
+</div>
+		</div>							</div>
+						</div>
+					
+											<div class="vc_col-sm-4">
+							<div class="widget-area">
+								<div id="nav_menu-2" class="widget widget_nav_menu"><h3 class="widget-title">Services</h3><div class="menu-footer-menu-1-container"><ul id="menu-footer-menu-1" class="menu"><li id="menu-item-2296" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2296"><a href="http://www.psrgroup.in/security-solutions/">Security Solutions</a></li>
+<li id="menu-item-2297" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2297"><a href="http://www.psrgroup.in/cloud-virtualization-services/">Cloud &#038; Virtualization Services</a></li>
+<li id="menu-item-2298" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2298"><a href="http://www.psrgroup.in/infrastructure-management/">Infrastructure Management</a></li>
+<li id="menu-item-2299" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2299"><a href="http://www.psrgroup.in/system-integration/">System Integration</a></li>
+<li id="menu-item-2300" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2300"><a href="http://www.psrgroup.in/migration-and-consolidation/">Migration And Consolidation</a></li>
+</ul></div></div>							</div>	
+						</div>
+					
+											<div class="vc_col-sm-4">
+							<div class="widget-area">
+								<div id="nav_menu-3" class="widget widget_nav_menu"><h3 class="widget-title">Operations</h3><div class="menu-footer-menu-2-container"><ul id="menu-footer-menu-2" class="menu"><li id="menu-item-2301" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2301"><a href="http://www.psrgroup.in/infrastructure-operations/">Infrastructure Operations</a></li>
+<li id="menu-item-2302" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2302"><a href="http://www.psrgroup.in/data-centre-operations/">Data Centre Operations</a></li>
+<li id="menu-item-2303" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2303"><a href="http://www.psrgroup.in/network-operations/">Network Operations</a></li>
+<li id="menu-item-2304" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2304"><a href="http://www.psrgroup.in/application-management/">Application Management</a></li>
+<li id="menu-item-2305" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2305"><a href="http://www.psrgroup.in/mobility/">Mobility</a></li>
+<li id="menu-item-2306" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2306"><a href="http://www.psrgroup.in/information-security-operations/">Information Security Operations</a></li>
+</ul></div></div>							</div>	
+						</div>
+					
+									</div><!-- .vc_row -->
+				</div><!-- .inner -->
+			                
+            	
+                <div class="site-info" itemscope itemtype="http://schema.org/WPSideBar"> 
+                    <div class="inner">
+                    <div class="copyright-separator"></div>
+                        <div id="text-11" class="widget widget_text">			<div class="textwidget"><p>© Copyright &#8211; PSR Consultancy Services Pvt. Ltd.</p>
+</div>
+		</div><div id="text-10" class="widget widget_text">			<div class="textwidget"><p><a href="https://www.facebook.com/psrgroupindia" target="_blank" rel="noopener"><span class="mnky-font-icon change-color" style="color:#ffffff;"><i class="fa fa-facebook" style="font-size:24px; color:rgba(255,255,255,0.7); padding-left:0px; padding-right:25px;"></i></span></a><a href="https://www.linkedin.com/company/psrgroupindia/" target="_blank" rel="noopener"><span class="mnky-font-icon change-color" style="color:#ffffff;"><i class="fa fa-linkedin" style="font-size:19px; color:rgba(255,255,255,0.7); padding-left:0px; padding-right:25px;"></i></span></a></p>
+</div>
+		</div>                    </div>
+                                </div>	
+                            
+			</div><!-- .footer-sidebar -->
+								
+		
+</footer><!-- .site-footer -->	
+	<div id="mobile-menu-bg"></div>
+</div><!-- #wrapper -->
+	
+<nav id="mobile-site-navigation">
+	<span class="mobile-menu-header"><span class="mobile-menu-heading">Menu</span><i class="fa fa-times toggle-mobile-menu"></i></span>
+	<ul id="menu-mobile-menu" class="menu"><li id="menu-item-2212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-432 current_page_item menu-item-2212"><a href="http://www.psrgroup.in/">Home</a><span></span></li>
+<li id="menu-item-2307" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2307"><a href="http://www.psrgroup.in/about-us/">About Us</a><span></span></li>
+<li id="menu-item-2308" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2308"><a>Services</a><span></span>
+<ul class="sub-menu">
+	<li id="menu-item-2319" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2319"><a href="http://www.psrgroup.in/cloud-virtualization-services/">Cloud &#038; Virtualization Services</a><span></span></li>
+	<li id="menu-item-2320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2320"><a href="http://www.psrgroup.in/infrastructure-management/">Infrastructure Management</a><span></span></li>
+	<li id="menu-item-2323" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2323"><a href="http://www.psrgroup.in/system-integration/">System Integration</a><span></span></li>
+	<li id="menu-item-2322" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2322"><a href="http://www.psrgroup.in/migration-and-consolidation/">Migration And Consolidation</a><span></span></li>
+</ul>
+</li>
+<li id="menu-item-2309" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2309"><a>Operations</a><span></span>
+<ul class="sub-menu">
+	<li id="menu-item-2920" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2920"><a href="http://www.psrgroup.in/infrastructure-operations/">Infrastructure Operations</a><span></span></li>
+	<li id="menu-item-2921" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2921"><a href="http://www.psrgroup.in/network-operations/">Network Operations</a><span></span></li>
+	<li id="menu-item-2922" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2922"><a href="http://www.psrgroup.in/data-centre-operations/">Data Centre Operations</a><span></span></li>
+	<li id="menu-item-2923" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2923"><a href="http://www.psrgroup.in/application-management/">Application Management</a><span></span></li>
+</ul>
+</li>
+<li id="menu-item-2310" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2310"><a href="http://www.psrgroup.in/alliance-partners/">Alliance &#038; Partners</a><span></span></li>
+<li id="menu-item-2311" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2311"><a href="http://www.psrgroup.in/careers/">Careers</a><span></span></li>
+<li id="menu-item-2312" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2312"><a href="http://www.psrgroup.in/contact-us/">Contact Us</a><span></span></li>
+</ul>	
+	
+	
+</nav><!-- #mobile-site-navigation -->
+
+<a href="#top" class="scrollToTop"><i class="fa fa-angle-up"></i></a>
+			<script type="text/javascript">
+				function revslider_showDoubleJqueryError(sliderID) {
+					var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
+					errorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";
+					errorMessage += "<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option:  <strong><b>Put JS Includes To Body</b></strong> option to true.";
+					errorMessage += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.";
+					errorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "</span>";
+						jQuery(sliderID).show().html(errorMessage);
+				}
+			</script>
+			<link rel='stylesheet' id='animate-css-css'  href='http://www.psrgroup.in/wp-content/plugins/js_composer/assets/lib/bower/animate-css/animate.min.css' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/www.psrgroup.in\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.psrgroup.in/wp-content/plugins/contact-form-7/includes/js/scripts.js'></script>
+<script type='text/javascript' src='http://www.psrgroup.in/wp-content/plugins/mega-addons-for-visual-composer/js/script.js'></script>
+<script type='text/javascript' src='http://www.psrgroup.in/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js'></script>
+<script type='text/javascript' src='http://www.psrgroup.in/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js'></script>
+<script type='text/javascript' src='http://www.psrgroup.in/wp-content/plugins/wp-team-showcase-and-slider/assets/js/team-showcase-popup.js'></script>
+<script type='text/javascript' src='http://www.psrgroup.in/wp-content/themes/fintech-wp/js/init.js'></script>
+<script type='text/javascript' src='http://www.psrgroup.in/wp-content/themes/fintech-wp/js/sticky-header-smart.js'></script>
+<script type='text/javascript' src='http://www.psrgroup.in/wp-content/themes/fintech-wp/js/theia-sticky-sidebar.js'></script>
+<script type='text/javascript' src='http://maps.google.com/maps/api/js?key=AIzaSyB6X1bk5vMCNzFe_Su5xvme5x9TSC5-OC4&#038;libraries=geometry%2Cplaces%2Cweather%2Cpanoramio%2Cdrawing&#038;language=en'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpgmp_local = {"all_location":"All","show_locations":"Show Locations","sort_by":"Sort by","wpgmp_not_working":"not working...","place_icon_url":"http:\/\/www.psrgroup.in\/wp-content\/plugins\/wp-google-map-plugin\/assets\/images\/icons\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.psrgroup.in/wp-content/plugins/wp-google-map-plugin/assets/js/maps.js'></script>
+<script type='text/javascript' src='http://www.psrgroup.in/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox-1.3.8.min.js'></script>
+<script type='text/javascript'>
+var fb_timeout, fb_opts={'overlayShow':true,'hideOnOverlayClick':true,'showCloseButton':true,'margin':20,'centerOnScroll':false,'enableEscapeButton':true,'autoScale':true };
+if(typeof easy_fancybox_handler==='undefined'){
+var easy_fancybox_handler=function(){
+jQuery('.nofancybox,a.wp-block-file__button,a.pin-it-button,a[href*="pinterest.com/pin/create"],a[href*="facebook.com/share"],a[href*="twitter.com/share"]').addClass('nolightbox');
+/* IMG */
+var fb_IMG_select='a[href*=".jpg"]:not(.nolightbox,li.nolightbox>a),area[href*=".jpg"]:not(.nolightbox),a[href*=".jpeg"]:not(.nolightbox,li.nolightbox>a),area[href*=".jpeg"]:not(.nolightbox),a[href*=".png"]:not(.nolightbox,li.nolightbox>a),area[href*=".png"]:not(.nolightbox),a[href*=".webp"]:not(.nolightbox,li.nolightbox>a),area[href*=".webp"]:not(.nolightbox)';
+jQuery(fb_IMG_select).addClass('fancybox image');
+var fb_IMG_sections=jQuery('.gallery,.wp-block-gallery,.tiled-gallery');
+fb_IMG_sections.each(function(){jQuery(this).find(fb_IMG_select).attr('rel','gallery-'+fb_IMG_sections.index(this));});
+jQuery('a.fancybox,area.fancybox,li.fancybox a').each(function(){jQuery(this).fancybox(jQuery.extend({},fb_opts,{'transitionIn':'elastic','easingIn':'easeOutBack','transitionOut':'elastic','easingOut':'easeInBack','opacity':false,'hideOnContentClick':false,'titleShow':true,'titlePosition':'over','titleFromAlt':true,'showNavArrows':true,'enableKeyboardNav':true,'cyclic':false}))});};
+jQuery('a.fancybox-close').on('click',function(e){e.preventDefault();jQuery.fancybox.close()});
+};
+var easy_fancybox_auto=function(){setTimeout(function(){jQuery('#fancybox-auto').trigger('click')},1000);};
+jQuery(easy_fancybox_handler);jQuery(document).on('post-load',easy_fancybox_handler);
+jQuery(easy_fancybox_auto);
+</script>
+<script type='text/javascript' src='http://www.psrgroup.in/wp-content/plugins/easy-fancybox/js/jquery.easing.min.js'></script>
+<script type='text/javascript' src='http://www.psrgroup.in/wp-content/plugins/easy-fancybox/js/jquery.mousewheel.min.js'></script>
+<script type='text/javascript' src='http://www.psrgroup.in/wp-content/plugins/js_composer/assets/lib/waypoints/waypoints.min.js'></script>
+<script type='text/javascript' src='http://www.psrgroup.in/wp-content/plugins/js_composer/assets/lib/bower/skrollr/dist/skrollr.min.js'></script>
+<script type='text/javascript' src='http://www.psrgroup.in/wp-content/plugins/core-extend/assets/js/countTo.js'></script>
+<script type='text/javascript' src='http://www.psrgroup.in/wp-includes/js/admin-bar.min.js'></script>
+<script type='text/javascript' src='http://www.psrgroup.in/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript' src='http://www.psrgroup.in/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js'></script>
+<script type='text/javascript' src='http://www.psrgroup.in/wp-content/plugins/wp-logo-showcase-responsive-slider-slider/assets/js/slick.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var Wpls = {"is_mobile":"0","is_rtl":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.psrgroup.in/wp-content/plugins/wp-logo-showcase-responsive-slider-slider/assets/js/wpls-public.js'></script>
+<script type='text/javascript' src='http://www.psrgroup.in/wp-content/plugins/js_composer/assets/lib/bower/flexslider/jquery.flexslider-min.js'></script>
+</body>
+</html>
